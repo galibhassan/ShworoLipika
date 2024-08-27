@@ -14,7 +14,7 @@
   "devDependencies": {
     "arraybuffer-loader": "^1.0.3",
     "live-server": "^1.2.0",
-    "webpack": "2.6.1",
+    "webpack": "5.94.0",
     "webpack-dev-server": "2.9.5"
   },
   "dependencies": {
